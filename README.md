@@ -68,7 +68,6 @@ git config --global user.email "youremail@example.com"
     
 
 <div align="center">
-    <h3>Happy coding 🙂</h3>
+    <h3>Harshita Chaurasia</h3>
 </div>
 
-Contributed by Harshita Chaurasia 🙂
